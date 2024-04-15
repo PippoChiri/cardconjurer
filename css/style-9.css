@@ -4,6 +4,10 @@
 	src: url("../fonts/gotham-medium.ttf") format('truetype');
 }
 @font-face {
+	font-family: Unown;
+	src: url("../fonts/unown.ttf") format('truetype');
+}
+@font-face {
 	font-family: belerenb;
 	src: url("../fonts/beleren-b.ttf") format('truetype');
 }
